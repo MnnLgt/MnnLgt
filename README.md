@@ -9,6 +9,7 @@
 ## You can find my publications here
 
 [![ORCID](https://img.shields.io/badge/ORCID-grey?logo=orcid)](https://orcid.org/0000-0003-1983-5334)
+[![HAL](https://img.shields.io/badge/HAL-grey?logo=hal)](https://cv.hal.science/manonlaget)
 [![ReserchGate](https://img.shields.io/badge/ResearchGate-grey?logo=researchgate)](https://www.researchgate.net/profile/Manon-Laget)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-grey?logo=googlescholar)](https://scholar.google.com/citations?user=EJBI0T4AAAAJ&hl)
 
