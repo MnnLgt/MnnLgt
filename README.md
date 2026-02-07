@@ -1,4 +1,5 @@
-![Manon's banner](./img/banner.png)
+![Manon's banner](https://github.com/user-attachments/assets/ce2703b0-f5fa-482f-a8cf-1be33c314548)
+
 
 # Hi, I'm Manon 👋
 
