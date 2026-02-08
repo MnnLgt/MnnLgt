@@ -1,7 +1,7 @@
 ![Manon's banner](https://github.com/user-attachments/assets/45c12ab3-7160-451d-bdf4-673373cabaf3)
 
 
-# Hi, I'm Manon 👋
+# Hi, I'm Manon Laget 👋
 
 - 🌊 I am working on ocean biogeochemistry through the analysis of large imaging datasets.
 - 📫 How to reach me: manon.laget@dal.ca
