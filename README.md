@@ -6,6 +6,11 @@
 - 🌊 I am working on ocean biogeochemistry through the analysis of large imaging datasets.
 - 📫 How to reach me: manon.laget@dal.ca
 
+## Curriculum
+
+- 2024-current - Postdoctoral fellow at Dalhousie University (Canada)
+- 2020-2023 - PhD student at Université du Littoral Côte d'Opale (France)
+
 ## You can find my publications here
 
 [![ORCID](https://img.shields.io/badge/ORCID-grey?logo=orcid)](https://orcid.org/0000-0003-1983-5334)
