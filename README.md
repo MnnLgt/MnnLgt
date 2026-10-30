@@ -4,11 +4,12 @@
 # Hi, I'm Manon Laget 👋
 
 - 🌊 I am working on ocean biogeochemistry through the analysis of large imaging datasets.
-- 📫 How to reach me: manon.laget@dal.ca
+- 📫 How to reach me: manon.laget@uit.no
 
 ## Curriculum
 
-- 2024-current - Postdoctoral fellow at Dalhousie University (Canada)
+- 2026-Current - Postdoctoral fellow at UiT The Arctic University of Norway (Norway)
+- 2024-2026 - Postdoctoral fellow at Dalhousie University (Canada)
 - 2020-2023 - PhD student at Université du Littoral Côte d'Opale (France)
 
 ## You can find my publications here
